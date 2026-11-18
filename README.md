@@ -1,23 +1,21 @@
 
-<h1 align="center">Hey, I'm Indraj 👋</h1>
+<h1 align="center">Hi, I'm Indraj Thakur 👋</h1>
 
-<h3 align="center">
-  Developer • Building • Learning • Creating
-</h3>
+<h3 align="center">💜 Developer | Code Alchemist | Future Full-Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Developer;Building+cool+web+projects;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat;Frontend+Developer;JavaScript+Learner;Building+cool+web+projects" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🚀 Currently building web applications
-- 🌱 Learning JavaScript and modern web development
-- 🎯 Focused on improving my coding skills
-- 💻 Building projects and learning by doing
-- 🐍 Love turning ideas into real projects
+- 🚀 Building modern web applications
+- 🌱 Learning JavaScript and web development
+- 💡 Learning by building real-world projects
+- 🎯 Improving my problem-solving and coding skills
+- 💜 Interested in technology, design, and development
 
 ---
 
@@ -31,25 +29,35 @@
 
 ## 🚀 Featured Project
 
-### Task Manager
+### 💜 Task Manager
 
-A modern task management application to organize tasks, track priorities, and manage productivity.
+A modern task management application built to organize tasks, manage priorities, and improve productivity.
 
-- 🌐 Live Demo: https://task-manager-ax4n0fhoe-amra8.vercel.app/
-- 📂 Repository: https://github.com/Indrajthakur/Task-manager-app
+🔗 **Live Demo:** [Open Task Manager](https://task-manager-ax4n0fhoe-amra8.vercel.app/)
+
+📂 **Source Code:** [GitHub Repository](https://github.com/Indrajthakur/Task-manager-app)
+
+**Features**
+- Create and manage tasks
+- Update and delete tasks
+- Mark tasks as completed
+- Filter and search tasks
+- Dashboard overview
+
+**Tech:** HTML • CSS • JavaScript • Supabase
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indrajthakur&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Indrajthakur&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Indrajthakur&show_icons=true&theme=midnight-purple&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indrajthakur&theme=midnight-purple&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Indrajthakur/Indrajthakur/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
@@ -57,8 +65,29 @@ A modern task management application to organize tasks, track priorities, and ma
 
 ---
 
-<h3 align="center">⚡ Code. Learn. Build. Repeat. ⚡</h3>
+## 🌐 Connect With Me
 
 <p align="center">
-  Thanks for visiting my profile ❤️
+  <a href="https://github.com/Indrajthakur">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
+  </a>
+  <a href="https://www.linkedin.com/in/indraraj-thakurr-2a590a3b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
+  </a>
+  <a href="https://x.com/RThakur79501">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=A855F7" />
+  </a>
+  <a href="https://www.instagram.com/mr.indrajj/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=A855F7" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  💜 Code. Learn. Build. Repeat. 💜
+</h3>
+
+<p align="center">
+  Thanks for visiting my profile!
 </p>
