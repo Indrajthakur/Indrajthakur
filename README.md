@@ -19,3 +19,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indrajthakur/Indrajthakur/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Indrajthakur/Indrajthakur/output/github-contribution-grid-snake.svg">
 </picture>
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/Indrajthakur/Indrajthakur/output/github-contribution-grid-snake.svg)
